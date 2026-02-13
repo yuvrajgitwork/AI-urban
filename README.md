@@ -91,3 +91,5 @@ After successful run, the final DDR will be available at:
 
 **outputs/DDR_Report.md   ** ---
 sample ouput attached in /output
+
+Loom video link- https://www.boomshare.ai/shared/01KHC6DN6QQDFTBJXAHYBM2YQ7
