@@ -4,44 +4,42 @@
 
 ## 1. Executive Summary
 
-- **Total Issues Identified:** 12  
-- **Severity Distribution:** 2 High, 10 Medium, 0 Low  
-- **Overall Diagnostic Confidence:** 0.9 (High)  
-- **Key Themes:** Moisture-related symptoms, finish defects in wet areas, and external envelope concerns (cracks).  
-- **Thermal Analysis:** Moderate thermal variation observed; room-level mapping Not Available.
+- **Total Issues Identified:** 12
+- **Severity Distribution:** 2 High, 10 Medium, 0 Low
+- **Overall Diagnostic Confidence:** 0.9 (High)
+- The primary concerns relate to moisture symptoms, finish defects in wet areas, and external envelope cracks. Immediate attention is recommended for high-severity issues.
 
 ---
 
 ## 2. Property Issue Summary
 
-- **Moisture-related symptoms:** Dampness, efflorescence, and leakage observed in multiple areas.
-- **Finish defects in wet areas:** Gaps between tile joints, particularly in bathrooms.
-- **External envelope concerns:** Cracks reported on external wall near Master Bedroom.
+- **Primary Themes:**
+  - Moisture-related symptoms (dampness, efflorescence, leakage)
+  - Finish defects in wet areas (tile joint gaps)
+  - External envelope concerns (cracks)
 
 ---
 
 ## 3. Area-wise Observations
 
 ### Hall (Flat No. 103)
-- Dampness at skirting level (Medium severity, High confidence)
+- Dampness observed at skirting level (Medium severity, High confidence)
 - No direct thermal mapping available
 
 ### Common Bedroom (Flat No. 103)
-- Dampness at skirting level (Medium severity, High confidence)
+- Dampness observed at skirting level (Medium severity, High confidence)
 - No direct thermal mapping available
 
 ### Common Bathroom (Flat No. 103)
-- Gaps between tile joints
-- Plumbing issue and gaps between tile joints
-- Mild dampness at ceiling
-- All issues Medium severity, High confidence
+- Gaps between tile joints (Medium severity, High confidence)
+- Plumbing issue and gaps between tile joints (Medium severity, High confidence)
+- Mild dampness at ceiling (Medium severity, High confidence)
 - Thermal data supports possible moisture presence
 
 ### Master Bedroom (Flat No. 103)
-- Dampness at skirting level
-- Dampness and efflorescence on wall surface
-- Both issues Medium severity, High confidence
-- Thermal variation may correspond with wall anomalies (for efflorescence/dampness)
+- Dampness at skirting level (Medium severity, High confidence)
+- Dampness and efflorescence on wall surface (Medium severity, High confidence)
+- Thermal variation may correspond with wall anomalies
 
 ### Master Bedroom Bathroom (Flat No. 103)
 - Gaps between tile joints (Medium severity, High confidence)
@@ -56,7 +54,7 @@
 - No direct thermal mapping available
 
 ### External wall (near Master Bedroom, Flat No. 103)
-- Cracks (High severity, High confidence)
+- Cracks observed (High severity, High confidence)
 - No direct thermal mapping available
 
 ### Common & Master Bedroom Bathrooms (Flat No. 203)
@@ -67,29 +65,33 @@
 
 ## 4. Severity Assessment
 
-- **High Severity:**  
-  - Leakage at ceiling in Parking Area (active leakage, risk to durability/safety)
-  - Cracks on External wall (potential impact on building envelope integrity)
-- **Medium Severity:**  
-  - Moisture indicators (dampness, efflorescence) and finish defects (tile joint gaps) in various rooms and bathrooms. These may worsen if unaddressed.
-- **Reasoning:**  
-  - High severity issues are flagged due to potential structural and safety implications. Medium severity issues are likely to progress if not remediated, but currently pose less immediate risk.
+- **High Severity:**
+  - Leakage at Parking Area ceiling and cracks on External wall (near Master Bedroom) are flagged as high risk due to potential impact on durability and safety if unaddressed.
+- **Medium Severity:**
+  - Moisture indicators (dampness, efflorescence) and finish defects (tile joint gaps) are medium risk, as they may worsen and require remediation.
+- **Reasoning:** Severity is based on the provided rules: active leakage/cracks are high, moisture/finish defects are medium.
 
 ---
 
 ## 5. Probable Root Cause (Hypotheses)
 
-**Bathroom waterproofing / tile joint failure allowing moisture ingress**  
-- Confidence: Medium  
-- Evidence Basis: Presence of tile joint gaps in bathroom areas; multiple moisture indicators observed in bathrooms.
+**Hypothesis 1:** Bathroom waterproofing / tile joint failure allowing moisture ingress  
+- **Confidence:** Medium  
+- **Evidence Basis:**  
+  - Presence of tile joint gaps in bathroom areas  
+  - Multiple moisture indicators observed in bathrooms
 
-**Localized plumbing leakage contributing to moisture presence**  
-- Confidence: Medium  
-- Evidence Basis: Inspection mentions plumbing-related issues; leakage-related observations present.
+**Hypothesis 2:** Localized plumbing leakage contributing to moisture presence  
+- **Confidence:** Medium  
+- **Evidence Basis:**  
+  - Inspection mentions plumbing-related issues  
+  - Leakage-related observations present
 
-**External seepage through cracks or building envelope defects**  
-- Confidence: Low  
-- Evidence Basis: External wall cracks reported; efflorescence/dampness consistent with moisture migration.
+**Hypothesis 3:** External seepage through cracks or building envelope defects  
+- **Confidence:** Low  
+- **Evidence Basis:**  
+  - External wall cracks are reported  
+  - Efflorescence/dampness consistent with moisture migration
 
 ---
 
@@ -118,11 +120,11 @@
   - Minimum coldspot: 20.1°C  
   - Temperature difference: 8.7°C  
   - Interpretation: Moderate thermal variation, may be normal depending on environment and application.
-  - Room-level mapping of thermal images is Not Available unless explicitly provided.
+  - Mapping confidence: High, but room-level mapping is Not Available.
 
 - **Limitations:**  
-  - No room-level thermal confirmation for most areas.
-  - No invasive or moisture meter testing performed.
+  - Room-level mapping of thermal images is Not Available unless explicitly provided.
+  - No confirmation via moisture meter or invasive testing.
 
 ---
 
@@ -141,27 +143,24 @@
 
 - Thermal data shows significant temperature variation, which is generally consistent with the moisture-related issues observed in the inspection report.
 - Room-level correlation is Not Available due to missing thermal image mapping.
-- No conflicts identified between inspection and thermal findings.
 
 ---
 
 ## 10. Evidence Appendix
 
 | Area                                         | Issue                                 | Source         | Quote                                                                                   |
-|-----------------------------------------------|---------------------------------------|----------------|-----------------------------------------------------------------------------------------|
+|-----------------------------------------------|---------------------------------------|---------------|-----------------------------------------------------------------------------------------|
 | Hall (Flat No. 103)                          | Dampness at skirting level            | SUMMARY TABLE  | "Observed dampness at the skirting level of Hall of Flat No. 103"                       |
 | Common Bedroom (Flat No. 103)                | Dampness at skirting level            | SUMMARY TABLE  | "Observed dampness at the skirting level of the Common Bedroom of Flat No. 103"         |
 | Common Bathroom (Flat No. 103)               | Gaps between tile joints              | SUMMARY TABLE  | "Observed gaps between the tile joints of Common Bathroom of Flat No. 103"              |
 | Master Bedroom (Flat No. 103)                | Dampness at skirting level            | SUMMARY TABLE  | "Observed dampness at the skirting level of Master Bedroom of Flat No. 103"             |
-| Master Bedroom Bathroom (Flat No. 103)       | Gaps between tile joints              | SUMMARY TABLE  | "Observed gaps between the tile joints of Master Bedroom Bathroom of Flat No. 103"      |
+| Master Bedroom Bathroom (Flat No. 103)       | Gaps between tile joints              | SUMMARY TABLE  | "Observed gaps between the tile joints of Master Bedroom Bathroom of Flat No. 103"       |
 | Kitchen (Flat No. 103)                       | Dampness at skirting level            | SUMMARY TABLE  | "Observed dampness at the skirting level of Kitchen of Flat No. 103"                    |
 | Master Bedroom (Flat No. 103)                | Dampness and efflorescence on wall    | SUMMARY TABLE  | "Observed dampness & efflorescence on the wall surface of Master Bedroom of Flat No. 103"|
 | Parking Area (below Flat No. 103)            | Leakage at ceiling                    | SUMMARY TABLE  | "Observed leakage at the Parking ceiling below Flat No. 103"                            |
-| External wall (near Master Bedroom, Flat No. 103) | Cracks                          | SUMMARY TABLE  | "Observed cracks on the External wall of building near Master Bedroom of Flat No. 103"  |
+| External wall (near Master Bedroom, Flat No. 103) | Cracks                          | SUMMARY TABLE  | "Observed cracks on the External wall of building near Master Bedroom of Flat No. 103"   |
 | Common Bathroom (Flat No. 103)               | Plumbing issue and gaps between tile joints | SUMMARY TABLE | "Observed plumbing issue & gaps between the tile joints of Common Bathroom of Flat No. 103"|
 | Common Bathroom (Flat No. 103)               | Mild dampness at ceiling              | SUMMARY TABLE  | "Observed mild dampness at the ceiling of Common Bathroom of Flat No. 103"              |
 | Common & Master Bedroom Bathrooms (Flat No. 203) | Gap between tile joints           | SUMMARY TABLE  | "Observed gap between tile joints of Common & Master Bedroom Bathrooms of Flat No. 203." |
 
 ---
-
-**End of Report**

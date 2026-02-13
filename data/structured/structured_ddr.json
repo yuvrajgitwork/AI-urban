@@ -380,7 +380,7 @@
     "max_hotspot": 28.8,
     "min_coldspot": 20.1,
     "delta": 8.7,
-    "interpretation": "The thermal inspection shows a maximum hotspot of 28.8\u00b0C and a minimum coldspot of 20.1\u00b0C, indicating a temperature difference of 8.7\u00b0C across the inspected surfaces. This range suggests moderate thermal variation, which may be normal depending on the environment and application.",
+    "interpretation": "The thermal readings show a maximum hotspot of 28.8\u00b0C and a minimum coldspot of 20.1\u00b0C, indicating a temperature difference of 8.7\u00b0C across the inspected areas. This suggests moderate thermal variation, which may be normal depending on the environment and application.",
     "mapping_confidence": "High",
     "constraint": "Room-level mapping of thermal images is Not Available unless explicitly provided in the thermal report text."
   },
