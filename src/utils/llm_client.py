@@ -10,7 +10,7 @@ client = OpenAI(
 )
 
 
-def call_gpt(prompt, temperature=0):
+def get_llm_client(prompt, temperature=0):
     response = client.chat.completions.create(
         model="gpt-4.1",
         messages=[

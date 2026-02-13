@@ -1,5 +1,7 @@
 openai
 unstructured
+pdfplumber
+python-dotenv
 pydantic
 tqdm
 pandas

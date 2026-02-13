@@ -1,0 +1,470 @@
+{
+  "executive_summary": {
+    "total_issues": 12,
+    "high": 2,
+    "medium": 10,
+    "low": 0,
+    "overall_confidence": 0.9
+  },
+  "property_issue_summary": {
+    "primary_themes": [
+      "Moisture-related symptoms (dampness/efflorescence/leakage)",
+      "Finish defects in wet areas (tile joint gaps)",
+      "External envelope concerns (cracks)"
+    ]
+  },
+  "area_observations": {
+    "Hall (Flat No. 103)": {
+      "area": "Hall (Flat No. 103)",
+      "issues": [
+        "Dampness at skirting level"
+      ],
+      "severity_levels": [
+        "Medium"
+      ],
+      "thermal_support_any": false,
+      "raw_items": [
+        {
+          "area": "Hall (Flat No. 103)",
+          "issue": "Dampness at skirting level",
+          "description": "Observed dampness at the skirting level of Hall of Flat No. 103.",
+          "severity": "Medium",
+          "confidence": "High",
+          "source": "SUMMARY TABLE",
+          "evidence": [
+            {
+              "source": "SUMMARY TABLE",
+              "quote": "Observed dampness at the skirting level of Hall of Flat No. 103"
+            }
+          ],
+          "thermal_correlation": "No direct thermal mapping available for this area.",
+          "thermal_support": false,
+          "risk_flag": false
+        }
+      ]
+    },
+    "Common Bedroom (Flat No. 103)": {
+      "area": "Common Bedroom (Flat No. 103)",
+      "issues": [
+        "Dampness at skirting level"
+      ],
+      "severity_levels": [
+        "Medium"
+      ],
+      "thermal_support_any": false,
+      "raw_items": [
+        {
+          "area": "Common Bedroom (Flat No. 103)",
+          "issue": "Dampness at skirting level",
+          "description": "Observed dampness at the skirting level of the Common Bedroom of Flat No. 103.",
+          "severity": "Medium",
+          "confidence": "High",
+          "source": "SUMMARY TABLE",
+          "evidence": [
+            {
+              "source": "SUMMARY TABLE",
+              "quote": "Observed dampness at the skirting level of the Common Bedroom of Flat No. 103"
+            }
+          ],
+          "thermal_correlation": "No direct thermal mapping available for this area.",
+          "thermal_support": false,
+          "risk_flag": false
+        }
+      ]
+    },
+    "Common Bathroom (Flat No. 103)": {
+      "area": "Common Bathroom (Flat No. 103)",
+      "issues": [
+        "Gaps between tile joints",
+        "Plumbing issue and gaps between tile joints",
+        "Mild dampness at ceiling"
+      ],
+      "severity_levels": [
+        "Medium"
+      ],
+      "thermal_support_any": true,
+      "raw_items": [
+        {
+          "area": "Common Bathroom (Flat No. 103)",
+          "issue": "Gaps between tile joints",
+          "description": "Observed gaps between the tile joints of Common Bathroom of Flat No. 103.",
+          "severity": "Medium",
+          "confidence": "High",
+          "source": "SUMMARY TABLE",
+          "evidence": [
+            {
+              "source": "SUMMARY TABLE",
+              "quote": "Observed gaps between the tile joints of Common Bathroom of Flat No. 103"
+            }
+          ],
+          "thermal_correlation": "Thermal data supports possible moisture presence in this area.",
+          "thermal_support": true,
+          "risk_flag": false
+        },
+        {
+          "area": "Common Bathroom (Flat No. 103)",
+          "issue": "Plumbing issue and gaps between tile joints",
+          "description": "Observed plumbing issue & gaps between the tile joints of Common Bathroom of Flat No. 103.",
+          "severity": "Medium",
+          "confidence": "High",
+          "source": "SUMMARY TABLE",
+          "evidence": [
+            {
+              "source": "SUMMARY TABLE",
+              "quote": "Observed plumbing issue & gaps between the tile joints of Common Bathroom of Flat No. 103"
+            }
+          ],
+          "thermal_correlation": "Thermal data supports possible moisture presence in this area.",
+          "thermal_support": true,
+          "risk_flag": false
+        },
+        {
+          "area": "Common Bathroom (Flat No. 103)",
+          "issue": "Mild dampness at ceiling",
+          "description": "Observed mild dampness at the ceiling of Common Bathroom of Flat No. 103.",
+          "severity": "Medium",
+          "confidence": "High",
+          "source": "SUMMARY TABLE",
+          "evidence": [
+            {
+              "source": "SUMMARY TABLE",
+              "quote": "Observed mild dampness at the ceiling of Common Bathroom of Flat No. 103"
+            }
+          ],
+          "thermal_correlation": "Thermal data supports possible moisture presence in this area.",
+          "thermal_support": true,
+          "risk_flag": false
+        }
+      ]
+    },
+    "Master Bedroom (Flat No. 103)": {
+      "area": "Master Bedroom (Flat No. 103)",
+      "issues": [
+        "Dampness at skirting level",
+        "Dampness and efflorescence on wall surface"
+      ],
+      "severity_levels": [
+        "Medium"
+      ],
+      "thermal_support_any": true,
+      "raw_items": [
+        {
+          "area": "Master Bedroom (Flat No. 103)",
+          "issue": "Dampness at skirting level",
+          "description": "Observed dampness at the skirting level of Master Bedroom of Flat No. 103.",
+          "severity": "Medium",
+          "confidence": "High",
+          "source": "SUMMARY TABLE",
+          "evidence": [
+            {
+              "source": "SUMMARY TABLE",
+              "quote": "Observed dampness at the skirting level of Master Bedroom of Flat No. 103"
+            }
+          ],
+          "thermal_correlation": "No direct thermal mapping available for this area.",
+          "thermal_support": false,
+          "risk_flag": false
+        },
+        {
+          "area": "Master Bedroom (Flat No. 103)",
+          "issue": "Dampness and efflorescence on wall surface",
+          "description": "Observed dampness & efflorescence on the wall surface of Master Bedroom of Flat No. 103.",
+          "severity": "Medium",
+          "confidence": "High",
+          "source": "SUMMARY TABLE",
+          "evidence": [
+            {
+              "source": "SUMMARY TABLE",
+              "quote": "Observed dampness & efflorescence on the wall surface of Master Bedroom of Flat No. 103"
+            }
+          ],
+          "thermal_correlation": "Thermal variation may correspond with wall anomalies.",
+          "thermal_support": true,
+          "risk_flag": false
+        }
+      ]
+    },
+    "Master Bedroom Bathroom (Flat No. 103)": {
+      "area": "Master Bedroom Bathroom (Flat No. 103)",
+      "issues": [
+        "Gaps between tile joints"
+      ],
+      "severity_levels": [
+        "Medium"
+      ],
+      "thermal_support_any": true,
+      "raw_items": [
+        {
+          "area": "Master Bedroom Bathroom (Flat No. 103)",
+          "issue": "Gaps between tile joints",
+          "description": "Observed gaps between the tile joints of Master Bedroom Bathroom of Flat No. 103.",
+          "severity": "Medium",
+          "confidence": "High",
+          "source": "SUMMARY TABLE",
+          "evidence": [
+            {
+              "source": "SUMMARY TABLE",
+              "quote": "Observed gaps between the tile joints of Master Bedroom Bathroom of Flat No. 103"
+            }
+          ],
+          "thermal_correlation": "Thermal data supports possible moisture presence in this area.",
+          "thermal_support": true,
+          "risk_flag": false
+        }
+      ]
+    },
+    "Kitchen (Flat No. 103)": {
+      "area": "Kitchen (Flat No. 103)",
+      "issues": [
+        "Dampness at skirting level"
+      ],
+      "severity_levels": [
+        "Medium"
+      ],
+      "thermal_support_any": false,
+      "raw_items": [
+        {
+          "area": "Kitchen (Flat No. 103)",
+          "issue": "Dampness at skirting level",
+          "description": "Observed dampness at the skirting level of Kitchen of Flat No. 103.",
+          "severity": "Medium",
+          "confidence": "High",
+          "source": "SUMMARY TABLE",
+          "evidence": [
+            {
+              "source": "SUMMARY TABLE",
+              "quote": "Observed dampness at the skirting level of Kitchen of Flat No. 103"
+            }
+          ],
+          "thermal_correlation": "No direct thermal mapping available for this area.",
+          "thermal_support": false,
+          "risk_flag": false
+        }
+      ]
+    },
+    "Parking Area (below Flat No. 103)": {
+      "area": "Parking Area (below Flat No. 103)",
+      "issues": [
+        "Leakage at ceiling"
+      ],
+      "severity_levels": [
+        "High"
+      ],
+      "thermal_support_any": false,
+      "raw_items": [
+        {
+          "area": "Parking Area (below Flat No. 103)",
+          "issue": "Leakage at ceiling",
+          "description": "Observed leakage at the Parking ceiling below Flat No. 103.",
+          "severity": "High",
+          "confidence": "High",
+          "source": "SUMMARY TABLE",
+          "evidence": [
+            {
+              "source": "SUMMARY TABLE",
+              "quote": "Observed leakage at the Parking ceiling below Flat No. 103"
+            }
+          ],
+          "thermal_correlation": "No direct thermal mapping available for this area.",
+          "thermal_support": false,
+          "risk_flag": true
+        }
+      ]
+    },
+    "External wall (near Master Bedroom, Flat No. 103)": {
+      "area": "External wall (near Master Bedroom, Flat No. 103)",
+      "issues": [
+        "Cracks"
+      ],
+      "severity_levels": [
+        "High"
+      ],
+      "thermal_support_any": false,
+      "raw_items": [
+        {
+          "area": "External wall (near Master Bedroom, Flat No. 103)",
+          "issue": "Cracks",
+          "description": "Observed cracks on the External wall of building near Master Bedroom of Flat No. 103.",
+          "severity": "High",
+          "confidence": "High",
+          "source": "SUMMARY TABLE",
+          "evidence": [
+            {
+              "source": "SUMMARY TABLE",
+              "quote": "Observed cracks on the External wall of building near Master Bedroom of Flat No. 103"
+            }
+          ],
+          "thermal_correlation": "No direct thermal mapping available for this area.",
+          "thermal_support": false,
+          "risk_flag": true
+        }
+      ]
+    },
+    "Common & Master Bedroom Bathrooms (Flat No. 203)": {
+      "area": "Common & Master Bedroom Bathrooms (Flat No. 203)",
+      "issues": [
+        "Gap between tile joints"
+      ],
+      "severity_levels": [
+        "Medium"
+      ],
+      "thermal_support_any": true,
+      "raw_items": [
+        {
+          "area": "Common & Master Bedroom Bathrooms (Flat No. 203)",
+          "issue": "Gap between tile joints",
+          "description": "Observed gap between tile joints of Common & Master Bedroom Bathrooms of Flat No. 203.",
+          "severity": "Medium",
+          "confidence": "High",
+          "source": "SUMMARY TABLE",
+          "evidence": [
+            {
+              "source": "SUMMARY TABLE",
+              "quote": "Observed gap between tile joints of Common & Master Bedroom Bathrooms of Flat No. 203."
+            }
+          ],
+          "thermal_correlation": "Thermal data supports possible moisture presence in this area.",
+          "thermal_support": true,
+          "risk_flag": false
+        }
+      ]
+    }
+  },
+  "severity_assessment_rules": {
+    "High": "Active leakage or cracks that can impact durability/safety if unaddressed.",
+    "Medium": "Moisture indicators or finish defects that may worsen and require remediation."
+  },
+  "probable_root_cause_hypotheses": [
+    {
+      "hypothesis": "Bathroom waterproofing / tile joint failure allowing moisture ingress",
+      "confidence": "Medium",
+      "evidence_basis": [
+        "Presence of tile joint gaps in bathroom areas",
+        "Multiple moisture indicators observed in bathrooms (where reported)"
+      ]
+    },
+    {
+      "hypothesis": "Localized plumbing leakage contributing to moisture presence",
+      "confidence": "Medium",
+      "evidence_basis": [
+        "Inspection mentions plumbing-related issue(s) (where reported)",
+        "Leakage-related observation(s) present"
+      ]
+    },
+    {
+      "hypothesis": "External seepage through cracks or building envelope defects",
+      "confidence": "Low",
+      "evidence_basis": [
+        "External wall cracks are reported",
+        "Efflorescence/dampness can be consistent with moisture migration (where reported)"
+      ]
+    }
+  ],
+  "recommended_action_plan": {
+    "Immediate": [
+      "Investigate and repair the active leakage source immediately to prevent further damage.",
+      "Conduct structural assessment of reported cracks and carry out appropriate repair/remediation."
+    ],
+    "Short-term": [
+      "Address dampness/efflorescence areas after identifying the moisture pathway; repair finishes after source control.",
+      "Re-grout and seal tile joints in affected wet areas to reduce water ingress.",
+      "Inspect plumbing lines and fittings in affected bathrooms; repair any defects found."
+    ],
+    "Verification": [
+      "Perform moisture meter readings at affected walls (skirting zones, bathrooms, adjacent rooms) to quantify moisture extent.",
+      "If plumbing leakage is suspected, perform a plumbing pressure test to confirm.",
+      "Repeat thermal scan post-repair to confirm anomaly reduction (room-level mapping recommended)."
+    ]
+  },
+  "thermal_analysis": {
+    "max_hotspot": 28.8,
+    "min_coldspot": 20.1,
+    "delta": 8.7,
+    "interpretation": "The thermal inspection shows a maximum hotspot of 28.8\u00b0C and a minimum coldspot of 20.1\u00b0C, indicating a temperature difference of 8.7\u00b0C across the inspected surfaces. This range suggests moderate thermal variation, which may be normal depending on the environment and application.",
+    "mapping_confidence": "High",
+    "constraint": "Room-level mapping of thermal images is Not Available unless explicitly provided in the thermal report text."
+  },
+  "missing_information": [
+    "Room-level mapping of thermal images to specific inspected areas is Not Available.",
+    "Exact source of moisture (plumbing vs seepage vs condensation) is Not Available.",
+    "Depth and extent of moisture penetration is Not Available.",
+    "Confirmation via moisture meter or invasive testing is Not Available.",
+    "Construction details of walls, slabs, and waterproofing systems are Not Available.",
+    "Timing alignment between inspection observations and thermal imaging is Not Available."
+  ],
+  "consistency_check": "Thermal data shows significant temperature variation, which is generally consistent with the moisture-related issues observed in the inspection report. However, room-level correlation is not available due to missing thermal image mapping.",
+  "evidence_appendix": [
+    {
+      "area": "Hall (Flat No. 103)",
+      "issue": "Dampness at skirting level",
+      "source": "SUMMARY TABLE",
+      "quote": "Observed dampness at the skirting level of Hall of Flat No. 103"
+    },
+    {
+      "area": "Common Bedroom (Flat No. 103)",
+      "issue": "Dampness at skirting level",
+      "source": "SUMMARY TABLE",
+      "quote": "Observed dampness at the skirting level of the Common Bedroom of Flat No. 103"
+    },
+    {
+      "area": "Common Bathroom (Flat No. 103)",
+      "issue": "Gaps between tile joints",
+      "source": "SUMMARY TABLE",
+      "quote": "Observed gaps between the tile joints of Common Bathroom of Flat No. 103"
+    },
+    {
+      "area": "Master Bedroom (Flat No. 103)",
+      "issue": "Dampness at skirting level",
+      "source": "SUMMARY TABLE",
+      "quote": "Observed dampness at the skirting level of Master Bedroom of Flat No. 103"
+    },
+    {
+      "area": "Master Bedroom Bathroom (Flat No. 103)",
+      "issue": "Gaps between tile joints",
+      "source": "SUMMARY TABLE",
+      "quote": "Observed gaps between the tile joints of Master Bedroom Bathroom of Flat No. 103"
+    },
+    {
+      "area": "Kitchen (Flat No. 103)",
+      "issue": "Dampness at skirting level",
+      "source": "SUMMARY TABLE",
+      "quote": "Observed dampness at the skirting level of Kitchen of Flat No. 103"
+    },
+    {
+      "area": "Master Bedroom (Flat No. 103)",
+      "issue": "Dampness and efflorescence on wall surface",
+      "source": "SUMMARY TABLE",
+      "quote": "Observed dampness & efflorescence on the wall surface of Master Bedroom of Flat No. 103"
+    },
+    {
+      "area": "Parking Area (below Flat No. 103)",
+      "issue": "Leakage at ceiling",
+      "source": "SUMMARY TABLE",
+      "quote": "Observed leakage at the Parking ceiling below Flat No. 103"
+    },
+    {
+      "area": "External wall (near Master Bedroom, Flat No. 103)",
+      "issue": "Cracks",
+      "source": "SUMMARY TABLE",
+      "quote": "Observed cracks on the External wall of building near Master Bedroom of Flat No. 103"
+    },
+    {
+      "area": "Common Bathroom (Flat No. 103)",
+      "issue": "Plumbing issue and gaps between tile joints",
+      "source": "SUMMARY TABLE",
+      "quote": "Observed plumbing issue & gaps between the tile joints of Common Bathroom of Flat No. 103"
+    },
+    {
+      "area": "Common Bathroom (Flat No. 103)",
+      "issue": "Mild dampness at ceiling",
+      "source": "SUMMARY TABLE",
+      "quote": "Observed mild dampness at the ceiling of Common Bathroom of Flat No. 103"
+    },
+    {
+      "area": "Common & Master Bedroom Bathrooms (Flat No. 203)",
+      "issue": "Gap between tile joints",
+      "source": "SUMMARY TABLE",
+      "quote": "Observed gap between tile joints of Common & Master Bedroom Bathrooms of Flat No. 203."
+    }
+  ]
+}

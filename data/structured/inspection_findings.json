@@ -1,0 +1,158 @@
+[
+  {
+    "area": "Hall (Flat No. 103)",
+    "issue": "Dampness at skirting level",
+    "description": "Observed dampness at the skirting level of Hall of Flat No. 103.",
+    "source": "SUMMARY TABLE",
+    "evidence": [
+      {
+        "source": "SUMMARY TABLE",
+        "quote": "Observed dampness at the skirting level of Hall of Flat No. 103"
+      }
+    ],
+    "confidence": "High"
+  },
+  {
+    "area": "Common Bedroom (Flat No. 103)",
+    "issue": "Dampness at skirting level",
+    "description": "Observed dampness at the skirting level of the Common Bedroom of Flat No. 103.",
+    "source": "SUMMARY TABLE",
+    "evidence": [
+      {
+        "source": "SUMMARY TABLE",
+        "quote": "Observed dampness at the skirting level of the Common Bedroom of Flat No. 103"
+      }
+    ],
+    "confidence": "High"
+  },
+  {
+    "area": "Common Bathroom (Flat No. 103)",
+    "issue": "Gaps between tile joints",
+    "description": "Observed gaps between the tile joints of Common Bathroom of Flat No. 103.",
+    "source": "SUMMARY TABLE",
+    "evidence": [
+      {
+        "source": "SUMMARY TABLE",
+        "quote": "Observed gaps between the tile joints of Common Bathroom of Flat No. 103"
+      }
+    ],
+    "confidence": "High"
+  },
+  {
+    "area": "Master Bedroom (Flat No. 103)",
+    "issue": "Dampness at skirting level",
+    "description": "Observed dampness at the skirting level of Master Bedroom of Flat No. 103.",
+    "source": "SUMMARY TABLE",
+    "evidence": [
+      {
+        "source": "SUMMARY TABLE",
+        "quote": "Observed dampness at the skirting level of Master Bedroom of Flat No. 103"
+      }
+    ],
+    "confidence": "High"
+  },
+  {
+    "area": "Master Bedroom Bathroom (Flat No. 103)",
+    "issue": "Gaps between tile joints",
+    "description": "Observed gaps between the tile joints of Master Bedroom Bathroom of Flat No. 103.",
+    "source": "SUMMARY TABLE",
+    "evidence": [
+      {
+        "source": "SUMMARY TABLE",
+        "quote": "Observed gaps between the tile joints of Master Bedroom Bathroom of Flat No. 103"
+      }
+    ],
+    "confidence": "High"
+  },
+  {
+    "area": "Kitchen (Flat No. 103)",
+    "issue": "Dampness at skirting level",
+    "description": "Observed dampness at the skirting level of Kitchen of Flat No. 103.",
+    "source": "SUMMARY TABLE",
+    "evidence": [
+      {
+        "source": "SUMMARY TABLE",
+        "quote": "Observed dampness at the skirting level of Kitchen of Flat No. 103"
+      }
+    ],
+    "confidence": "High"
+  },
+  {
+    "area": "Master Bedroom (Flat No. 103)",
+    "issue": "Dampness and efflorescence on wall surface",
+    "description": "Observed dampness & efflorescence on the wall surface of Master Bedroom of Flat No. 103.",
+    "source": "SUMMARY TABLE",
+    "evidence": [
+      {
+        "source": "SUMMARY TABLE",
+        "quote": "Observed dampness & efflorescence on the wall surface of Master Bedroom of Flat No. 103"
+      }
+    ],
+    "confidence": "High"
+  },
+  {
+    "area": "Parking Area (below Flat No. 103)",
+    "issue": "Leakage at ceiling",
+    "description": "Observed leakage at the Parking ceiling below Flat No. 103.",
+    "source": "SUMMARY TABLE",
+    "evidence": [
+      {
+        "source": "SUMMARY TABLE",
+        "quote": "Observed leakage at the Parking ceiling below Flat No. 103"
+      }
+    ],
+    "confidence": "High"
+  },
+  {
+    "area": "External wall (near Master Bedroom, Flat No. 103)",
+    "issue": "Cracks",
+    "description": "Observed cracks on the External wall of building near Master Bedroom of Flat No. 103.",
+    "source": "SUMMARY TABLE",
+    "evidence": [
+      {
+        "source": "SUMMARY TABLE",
+        "quote": "Observed cracks on the External wall of building near Master Bedroom of Flat No. 103"
+      }
+    ],
+    "confidence": "High"
+  },
+  {
+    "area": "Common Bathroom (Flat No. 103)",
+    "issue": "Plumbing issue and gaps between tile joints",
+    "description": "Observed plumbing issue & gaps between the tile joints of Common Bathroom of Flat No. 103.",
+    "source": "SUMMARY TABLE",
+    "evidence": [
+      {
+        "source": "SUMMARY TABLE",
+        "quote": "Observed plumbing issue & gaps between the tile joints of Common Bathroom of Flat No. 103"
+      }
+    ],
+    "confidence": "High"
+  },
+  {
+    "area": "Common Bathroom (Flat No. 103)",
+    "issue": "Mild dampness at ceiling",
+    "description": "Observed mild dampness at the ceiling of Common Bathroom of Flat No. 103.",
+    "source": "SUMMARY TABLE",
+    "evidence": [
+      {
+        "source": "SUMMARY TABLE",
+        "quote": "Observed mild dampness at the ceiling of Common Bathroom of Flat No. 103"
+      }
+    ],
+    "confidence": "High"
+  },
+  {
+    "area": "Common & Master Bedroom Bathrooms (Flat No. 203)",
+    "issue": "Gap between tile joints",
+    "description": "Observed gap between tile joints of Common & Master Bedroom Bathrooms of Flat No. 203.",
+    "source": "SUMMARY TABLE",
+    "evidence": [
+      {
+        "source": "SUMMARY TABLE",
+        "quote": "Observed gap between tile joints of Common & Master Bedroom Bathrooms of Flat No. 203."
+      }
+    ],
+    "confidence": "High"
+  }
+]
